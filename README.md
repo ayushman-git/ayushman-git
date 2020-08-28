@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> Hi, I'm Ayushman Gupta! <img src="https://image.flaticon.com/icons/svg/2945/2945506.svg" width="50"></h1>
 
 <!--
 **ayushman-git/ayushman-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
