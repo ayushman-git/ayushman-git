@@ -17,18 +17,11 @@ Besides programming I also love designing. I try to design creative UI designs f
 </p>
 
 ### :eyes: Find me
-<ul>
-  <li><a href="https://ayushman.me/" ><img height="30" src="https://ayushman.me/img/logo-dark.67c20fa8.svg"></br> Portfolio website</a></li>
-  <li><a href="https://www.instagram.com/ayushman_fx/" ><img height="30" src="https://ayushman.me/img/instagram.f2cf5527.svg"></br> Instagram</a></li>
-  <li><a href="https://dribbble.com/Duoro" ><img height="30" src="https://ayushman.me/img/dribbble.325d1040.svg"></br> Dribbble</a></li>
-  <li><a href="https://www.behance.net/duoro" ><img height="30" src="https://ayushman.me/img/behance.1ae4d640.svg"></br>Behance</a></li>
-  <li><a href="https://500px.com/p/duoro?view=photos" ><img height="30" src="https://ayushman.me/img/500px.a7dc1326.svg"></br>500px</a></li>
-  <li><a href="https://www.deviantart.com/duoro" ><img height="30" src="https://ayushman.me/img/deviantart.6882cf9f.svg"></br>Deviantart</a></li>
-</ul>
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+<p>
+  <a href="https://ayushman.me/" ><img height="35" src="https://ayushman.me/img/logo-dark.67c20fa8.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ayushman_fx/" ><img height="30" src="https://ayushman.me/img/instagram.f2cf5527.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dribbble.com/Duoro" ><img height="30" src="https://ayushman.me/img/dribbble.325d1040.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.behance.net/duoro" ><img height="30" src="https://ayushman.me/img/behance.1ae4d640.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://500px.com/p/duoro?view=photos" ><img height="30" src="https://ayushman.me/img/500px.a7dc1326.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.deviantart.com/duoro" ><img height="30" src="https://ayushman.me/img/deviantart.6882cf9f.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
