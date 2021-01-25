@@ -11,6 +11,8 @@ Besides programming I also love designing. I try to design creative **UI designs
 <p>
 <img src="https://ayushman.me/img/js.61ed8b05.svg" height="30" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://ayushman.me/img/vue.60dfaadb.svg" height="30" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://ayushman.me/img/react.c3fbd71b.svg" height="30" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://ayushman.me/img/nodejs.89ccb090.svg" height="30" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://ayushman.me/img/photoshop.4f9a4473.svg" height="30" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://ayushman.me/img/illustrator.21d4729a.svg" height="30" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://ayushman.me/img/figma.80505242.svg" height="30" />
