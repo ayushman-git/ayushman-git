@@ -1,0 +1,28 @@
+name: Refresh profile cards
+
+# Rebuilds the cards weekly so the Writing card picks up new posts from ayushman.dev.
+on:
+  schedule:
+    - cron: "30 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install fonttools==4.68.0 brotli==1.2.1
+      - run: python scripts/build.py
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Refresh profile cards"
+          git push
