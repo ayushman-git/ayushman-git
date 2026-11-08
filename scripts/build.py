@@ -50,7 +50,7 @@ LABEL = {"font": "mono", "size": 10.5, "ls": 1.5, "tone": "muted"}
 def load_faces():
     faces = {}
     for key, (file, weight, _) in FACES.items():
-        font = TTFont(FONTS / file)
+        font = TTFont(FONTS / file, recalcTimestamp=False)
         if weight is not None:
             font = instantiateVariableFont(font, {"wght": weight})
         buf = io.BytesIO()
@@ -82,7 +82,7 @@ def woff2(font, chars):
     options.drop_tables += ["meta"]
     sub = subset.Subsetter(options)
     sub.populate(unicodes={ord(c) for c in chars} | {0x20})
-    tt = TTFont(io.BytesIO(F[font]["bytes"]))
+    tt = TTFont(io.BytesIO(F[font]["bytes"]), recalcTimestamp=False)
     sub.subset(tt)
     out = io.BytesIO()
     tt.flavor = "woff2"
@@ -195,7 +195,7 @@ def hero(theme):
             ("tired of waiting for", "italic", 20, "ink"),
             (
                 ": a database client, and a reading list that lives in my terminal. "
-                "By day, I work on insurance software at Neo.",
+                "By day, I build learning software at Skillsoft.",
                 "sans",
                 16.5,
                 "body",
@@ -207,7 +207,7 @@ def hero(theme):
     c.rule(540, 36, 540, 264)
     rows = [
         ("Now", "Shipping Seqora"),
-        ("Day job", "Neo Insurance"),
+        ("Day job", "Skillsoft, edtech"),
         ("Learning", "Rust, agent workflows"),
         ("Off hours", "Astronomy, sketching"),
     ]
@@ -219,8 +219,8 @@ def hero(theme):
         c.text(568, top + 44, v, "medium", 14.5)
     return c.svg(
         "Ayushman Gupta. Full-stack engineer in India. I build the tools I got tired of waiting "
-        "for: a database client, and a reading list that lives in my terminal. By day, I work "
-        "on insurance software at Neo. Now shipping Seqora; learning Rust and agent workflows; "
+        "for: a database client, and a reading list that lives in my terminal. By day, I build "
+        "learning software at Skillsoft. Now shipping Seqora; learning Rust and agent workflows; "
         "off hours, astronomy and sketching."
     )
 
