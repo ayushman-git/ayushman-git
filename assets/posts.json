@@ -2,37 +2,31 @@
   {
     "title": "Why I Built a Database Client",
     "link": "https://www.ayushman.dev/blog/devlog/seqora_devlog_0",
-    "date": "Oct 2026",
-    "kind": "Devlog"
+    "date": "2026-10-21"
   },
   {
     "title": "The 4KB Computer That Landed on the Moon",
     "link": "https://www.ayushman.dev/blog/space-software/apollo_guidance_computer",
-    "date": "Mar 2026",
-    "kind": "Space × software"
+    "date": "2026-03-23"
   },
   {
     "title": "Building Authenticated MCP Servers",
     "link": "https://www.ayushman.dev/blog/technical-guide/building_authenticated_mcp_servers",
-    "date": "Sep 2025",
-    "kind": "Guide"
+    "date": "2025-09-24"
   },
   {
     "title": "From Fireflies to Fiber Optics: How Netflix Streams Your Favourite Shows",
     "link": "https://www.ayushman.dev/blog/case-study/netflix_streams",
-    "date": "Apr 2025",
-    "kind": "Case study"
+    "date": "2025-04-09"
   },
   {
     "title": "From Toyota's Assembly Lines to India's Streets: The QR Code Journey",
     "link": "https://www.ayushman.dev/blog/case-study/qr_code_journey",
-    "date": "Jan 2025",
-    "kind": "Case study"
+    "date": "2025-01-29"
   },
   {
     "title": "Decoding the Arecibo Message",
     "link": "https://www.ayushman.dev/blog/case-study/decoding_the_arecibo_message",
-    "date": "Sep 2024",
-    "kind": "Case study"
+    "date": "2024-09-08"
   }
 ]
